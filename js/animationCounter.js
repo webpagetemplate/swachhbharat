@@ -22,7 +22,7 @@
 
 				var defaults = {
 					start: 0,
-					end: null,
+					end: 50,
 					step: 1,
 					delay: 1000,
 					txt: ""
